@@ -12,7 +12,7 @@
 
 ![pipeline](https://i.imgur.com/jFOsdjZ.png)
 
-<h2>🧑‍🔧 Data Model</h2>
+<h2>🌟 Data Model</h2>
 
 *   I used Kimball's approach for data warehousing (transaction-based) and created the star schema below.
 *   Again, nothing fancy because I didn't want to overcomplicate this project.
