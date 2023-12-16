@@ -42,6 +42,7 @@ Technologies used in the project:
 *   Including statistics for other generations and battle formats
 *   Improve on the dashboard's design and naming consistency of fields
 *   Enhance dashboard visuals with sprites and type-based coloring
+*   Add staging via Cloud Storage
 
 <h2>🛡️ License</h2>
 
