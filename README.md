@@ -3,6 +3,7 @@
 <p align="center"><img src="https://img.shields.io/badge/data%20engineering-8A2BE2" alt="shields"> <img src="https://img.shields.io/badge/google cloud platform-00A36C" alt="shields"> <img src="https://img.shields.io/badge/python-48BBDB" alt="shields"></p>
 
 <p id="description" align="center">An end-to-end data engineering project using data sources from Smogon Stats and PokeAPI.</p>
+<p id="description" align="center"><b>[UPDATE]</b> Dashboard will no longer display updated stats after Jan 2024, I ran out of credits and was charged $100 by Google :(</p>
 
 <h2>🧑‍🔧 Data Pipeline</h2>
  
