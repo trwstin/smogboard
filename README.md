@@ -26,7 +26,7 @@
 
 ![dashboard](https://i.imgur.com/7LWueEP.png)
 
-[Click here to interact with it!](https://lookerstudio.google.com/reporting/7e7e3a41-7147-485c-be44-e1428af05d7a)
+[Click here to interact with it!](https://lookerstudio.google.com/reporting/7e7e3a41-7147-485c-be44-e1428af05d7a) (Dashboard no longer functional due to lack of credits)
 
 <h2>💻 Built With</h2>
 
